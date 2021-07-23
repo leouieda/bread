@@ -33,3 +33,10 @@
 * Cover with lid and bake for 30 min
 * Remove the lid, lower the temperature to 200C and bake for another 20-30 min (temperature and time may depend on your oven)
 * Let loaf cool completely (at least 1h) before cutting. It gets sticky and soggy if you cut it hot.
+
+## Starter maintenance
+
+I keep my starter at 50g of flour and 100% hydration (50g water). 
+The morning when I bake, I'll feed the starter (discard most and add more flour + water).
+Then I wait until bubbles start showing up, usually around 1-2h.
+At this point, I put in the fridge until the next Friday when I'm going to bake again.
